@@ -3,4 +3,5 @@ Seperate
 Set
 Update
 Two
-Tupaki
+Three
+Pull
